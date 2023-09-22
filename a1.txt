@@ -1,6 +1,9 @@
-change locally
+to check if have succesfully cloned my old 
 
- to check if have succesfully cloned my old 
+test for merge conflict 
+
+to check if have succesfully cloned my old 
+
 repository
 
 modify and track your change
