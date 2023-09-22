@@ -1,4 +1,4 @@
-this is for new_planet to check if have succesfully cloned my old 
+ to check if have succesfully cloned my old 
 repository
 
 modify and track your change
